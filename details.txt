@@ -1,0 +1,37 @@
+LinkedIn URL - https://www.linkedin.com/in/likin-m-b-664422297?utm_source=share_via&utm_content=profile&utm_medium=member_android
+
+Github URL - https://github.com/Likin2005
+
+Email - likinmb83@gmail.com
+
+Location - Mysore, Karnataka
+
+Languages - Kannada, English, Hindi
+
+Hobbies - playing cricket, watching movies, listening to music, playing games, solving puzzles
+
+About Me -> Final-year Computer Science student specialized in Artificial Intelligence and Machine Learning. 
+Have strong interest in Data structures and Algorithms, Backend development, SQL and AI applications.
+Eager and passionate to learn new technologies and exploring new concepts. Adept to quick learning and problem solving.
+
+Tools ->Programming Languages - C, C++, Python
+        Web and Backend - React, Flask, FastAPI, CRUD operations, JWT, REST API's
+        Database - SQL(MySQL), NoSQL(MongoDB)
+        Core CS - DSA, DBMS, OOP, Git, OS, CN, HTML, CSS
+
+Involvements - Leadership - Event Head in Vector Flow club - Led the event team in planning, coordinating, and executing club activities, ensuring smooth management 
+and successful delivery of events.
+             - Peer Tutor - Provided peer tutoring in Data Structures & Algorithms, DBMS, Advanced Java, and Design & Analysis of 
+Algorithms and assisted students in understanding core concepts, problem-solving techniques and exams.
+
+Achivements - CodeHunt Competition - 1st Prize
+                •Secured 1st place in National-level inter-college coding competition by solving problem-solving challenges.
+              CodeOfDuty Competition – 3rd Prize
+                •Achieved 3rd place in CodeOfDuty coding competition by solving algorithmic and programming challenges.
+              CodeBuddy Competition – Cash Prize
+                •Awarded a cash prize for outstanding performance in CodeBuddy contest, showcasing proficiency in DSA.
+
+Projects -  Smart Platform Community for Sustainability (LLM-powered)
+                code - https://github.com/Likin2005/Smart-Platform-Community-for-Sustainability-LLM-powered-
+            Event-Manager
+                code - https://github.com/Likin2005/Event-Manager 
